@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886659305746",
+    "firebase_url": "https://chattest-93bfb.firebaseio.com",
+    "project_id": "chattest-93bfb",
+    "storage_bucket": "chattest-93bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886659305746:android:780c1eed8f2bf7b6",
+        "android_client_info": {
+          "package_name": "com.example.peter.chattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886659305746-mop0ebhbtgfjl8gh52qf0irvf33d1iqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.chattest",
+            "certificate_hash": "02d4685657616c0f9e455572264d3dbefcc5c7fc"
+          }
+        },
+        {
+          "client_id": "886659305746-9cvs9jbhp1vv4oo8k8kcg0o7qq8a9fbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwDmQQHVrqHDqgg1aOPf3rMO6N-UbZEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886659305746-9cvs9jbhp1vv4oo8k8kcg0o7qq8a9fbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
